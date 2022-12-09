@@ -1,0 +1,23 @@
+{
+  "name": "cursoasincronismojs",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-from-scratch1/CursoAsincronismoJS.git"
+  },
+  "keywords": [
+    "async",
+    "javascript"
+  ],
+  "author": "Leopoldo Martinez (alb.mar.cta@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-from-scratch1/CursoAsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/code-from-scratch1/CursoAsincronismoJS#readme"
+}
